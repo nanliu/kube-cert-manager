@@ -1,5 +1,5 @@
-hash: 72fb5381ea0d23b5b7128352d07909cec7b63537d590940b4086d17ef96bf82c
-updated: 2017-07-12T17:32:22.151572047+08:00
+hash: 6831a979afe6b9542f1c6633f2b0b14c2769f0d4ea54ed85d99fedb415f2aff4
+updated: 2017-08-09T17:41:04.673455041-07:00
 imports:
 - name: cloud.google.com/go
   version: 3b1ae45394a234c385be014e9a488f2bb6eef821
@@ -142,7 +142,7 @@ imports:
   subpackages:
   - codec
 - name: github.com/xenolf/lego
-  version: 5dfe609afb1ebe9da97c9846d97a55415e5a5ccd
+  version: 4dde48a9b9916926a8dd4f69639c8dba40930355
   subpackages:
   - acme
   - providers/dns/cloudflare
